@@ -237,3 +237,24 @@
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_computer_a654ef0d-df41-4dd4-ad4e-8bafaa50d705.png>
   </picture>
 </p>
+
+<p align=center>
+  <h5>metaory_futuristic_text_editor_wall_41ba8378-ab21-4a30-bc3f-34a1c6350823.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_wall_41ba8378-ab21-4a30-bc3f-34a1c6350823.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_futuristic_text_editor_wall_a974bd55-85e7-4a7b-b010-910ea25412f8.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_wall_a974bd55-85e7-4a7b-b010-910ea25412f8.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_futuristic_text_editor_wall_b3d878d0-2183-4f0f-8f58-24bb1659cf73.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_wall_b3d878d0-2183-4f0f-8f58-24bb1659cf73.png>
+  </picture>
+</p>
