@@ -64,6 +64,13 @@
 </p>
 
 <p align=center>
+  <h5>metaory_cyberpunk_text_editor_6184fb5d-7de8-4154-bd58-bf3b3b7630a7.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_text_editor_6184fb5d-7de8-4154-bd58-bf3b3b7630a7.png>
+  </picture>
+</p>
+
+<p align=center>
   <h5>metaory_cyberpunk_text_editor_62f9092b-d485-47c1-ba13-f616766b261d.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_text_editor_62f9092b-d485-47c1-ba13-f616766b261d.png>
@@ -95,6 +102,20 @@
   <h5>metaory_cyberpunk_text_editor_7e8c3872-086a-44c0-bba7-67701e09de3c.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_text_editor_7e8c3872-086a-44c0-bba7-67701e09de3c.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_text_editor_81cd07e3-9200-4e2a-b989-f657858da39c.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_text_editor_81cd07e3-9200-4e2a-b989-f657858da39c.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_text_editor_953df13f-2d1f-4679-b66a-72ffff0e7ce3.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_text_editor_953df13f-2d1f-4679-b66a-72ffff0e7ce3.png>
   </picture>
 </p>
 
