@@ -195,3 +195,10 @@
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futurestic_text_editor_cda03f4c-7cf0-4f2e-b62f-dbef9fe1449c.png>
   </picture>
 </p>
+
+<p align=center>
+  <h5>metaory_futuristic_text_editor_8a4688dc-3090-49c3-8476-654a68f6aa71.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_8a4688dc-3090-49c3-8476-654a68f6aa71.png>
+  </picture>
+</p>
