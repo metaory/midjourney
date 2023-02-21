@@ -15,6 +15,13 @@
 </p>
 
 <p align=center>
+  <h5>metaory_cyberpunk_girl_futeristic_text_editor_2157a1f8-0c2d-46bf-8b17-5b6d5f50db46.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_girl_futeristic_text_editor_2157a1f8-0c2d-46bf-8b17-5b6d5f50db46.png>
+  </picture>
+</p>
+
+<p align=center>
   <h5>metaory_cyberpunk_terminal_a3bbba98-d704-4781-b587-ee4a81200bd4.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_terminal_a3bbba98-d704-4781-b587-ee4a81200bd4.png>
@@ -214,5 +221,19 @@
   <h5>metaory_futuristic_text_editor_8a4688dc-3090-49c3-8476-654a68f6aa71.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_8a4688dc-3090-49c3-8476-654a68f6aa71.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_futuristic_text_editor_computer_842ab9a2-fdba-445f-98f6-561ed6383b13.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_computer_842ab9a2-fdba-445f-98f6-561ed6383b13.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_futuristic_text_editor_computer_a654ef0d-df41-4dd4-ad4e-8bafaa50d705.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_futuristic_text_editor_computer_a654ef0d-df41-4dd4-ad4e-8bafaa50d705.png>
   </picture>
 </p>
