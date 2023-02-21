@@ -71,9 +71,23 @@
 </p>
 
 <p align=center>
+  <h5>metaory_cyberpunk_computer_network_mesh_wires_3276014b-53ac-4b94-b0e1-346079a2a45a.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_computer_network_mesh_wires_3276014b-53ac-4b94-b0e1-346079a2a45a.png>
+  </picture>
+</p>
+
+<p align=center>
   <h5>metaory_cyberpunk_computer_network_mesh_wires_34d11c46-80b8-4eb9-a46b-747a83747cd4.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_computer_network_mesh_wires_34d11c46-80b8-4eb9-a46b-747a83747cd4.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_computer_network_mesh_wires_3c1d3fed-3b10-4884-a56f-4ac83ffca588.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_computer_network_mesh_wires_3c1d3fed-3b10-4884-a56f-4ac83ffca588.png>
   </picture>
 </p>
 
@@ -85,9 +99,23 @@
 </p>
 
 <p align=center>
+  <h5>metaory_cyberpunk_computer_network_mesh_wires_bfc2fb1a-4c62-4fa9-9a49-3b79b17f8f5b.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_computer_network_mesh_wires_bfc2fb1a-4c62-4fa9-9a49-3b79b17f8f5b.png>
+  </picture>
+</p>
+
+<p align=center>
   <h5>metaory_cyberpunk_computer_network_mesh_wires_c79e72a7-6208-464a-bd76-7d5bfbfe8be1.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_computer_network_mesh_wires_c79e72a7-6208-464a-bd76-7d5bfbfe8be1.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_computer_network_mesh_wires_e9e94f9a-0ab7-4165-8849-e56ee7e7dfad.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_computer_network_mesh_wires_e9e94f9a-0ab7-4165-8849-e56ee7e7dfad.png>
   </picture>
 </p>
 
