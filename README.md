@@ -85,6 +85,34 @@
 </p>
 
 <p align=center>
+  <h5>metaory_cyberpunk_network_0e45e770-331b-4ed4-bf3f-799ab2ac6394.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_network_0e45e770-331b-4ed4-bf3f-799ab2ac6394.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_network_d768de4e-e219-4e75-94c8-74ffc0a8175e.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_network_d768de4e-e219-4e75-94c8-74ffc0a8175e.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_network_mesh_1daa3e72-bb77-44ca-a8d9-1120e89d8892.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_network_mesh_1daa3e72-bb77-44ca-a8d9-1120e89d8892.png>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>metaory_cyberpunk_network_mesh_489078c9-20aa-40fa-9b32-2902e47169bb.png</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_network_mesh_489078c9-20aa-40fa-9b32-2902e47169bb.png>
+  </picture>
+</p>
+
+<p align=center>
   <h5>metaory_cyberpunk_terminal_a3bbba98-d704-4781-b587-ee4a81200bd4.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_terminal_a3bbba98-d704-4781-b587-ee4a81200bd4.png>
