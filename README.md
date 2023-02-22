@@ -1,6 +1,20 @@
 <h1>midjourney</h1>
 
 <p align=center>
+  <h5>ls</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/ls>
+  </picture>
+</p>
+
+<p align=center>
+  <h5>-tU</h5>
+  <picture>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/-tU>
+  </picture>
+</p>
+
+<p align=center>
   <h5>metaory_anime_car_153a8c6f-fd5d-49b7-a275-6e204e8dab8e.png</h5>
   <picture>
     <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_anime_car_153a8c6f-fd5d-49b7-a275-6e204e8dab8e.png>
