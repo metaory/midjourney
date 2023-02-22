@@ -2,7 +2,7 @@
 
 echo "<h1>midjourney</h1>" > README.md
 
-for file in ls -tr $PWD/assets/*; do
+for file in ls -r $PWD/assets/*; do
   echo "${file##*/} in ./assets"
   echo "
 <p align="center">
