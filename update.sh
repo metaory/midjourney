@@ -2,7 +2,7 @@
 
 echo "<h1>midjourney</h1>" > README.md
 
-for file in $(ls -1t $PWD/assets | head -20); do
+for file in $(ls -1t $PWD/assets | head -10); do
   echo "
 <p align="center">
   <h5>${file}</h5>
