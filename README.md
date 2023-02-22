@@ -8,9 +8,9 @@
 </p>
 
 <p align=center>
-  <h5>-t</h5>
+  <h5>-alt</h5>
   <picture>
-    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/-t>
+    <img width=90% alt=mxflow src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/-alt>
   </picture>
 </p>
 
