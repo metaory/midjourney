@@ -2,8 +2,9 @@
 
 echo "<h1>midjourney</h1>" > README.md
 
+MAX=${1:-20}
 i=0
-for file in $(ls -1t $PWD/assets | head -30); do
+for file in $(ls -1t $PWD/assets | head -"$MAX"); do
   echo "
 <p align="center">
   <h5>${i}::${file}</h5>
