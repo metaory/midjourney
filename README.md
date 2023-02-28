@@ -1,4 +1,4 @@
-<h1>Total: [94]</h1>
+<h1>Total assets: [94]</h1>
 
 <p align=center>
   <h5>0::metaory_8bit_cyberpunk_5485b4d9-642f-419a-bc71-531907febc37.png</h5>
