@@ -3,7 +3,7 @@
 echo "
 <h1>Midjourney Wallpapers</h1>
 <br>
-<h2>Total assets: [$(ls $PWD/assets | wc -l)]</h2>
+<h3>Total assets: [$(ls $PWD/assets | wc -l)]</h3>
 " > README.md
 
 i=0
