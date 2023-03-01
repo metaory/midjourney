@@ -1,7 +1,7 @@
 
 <h1>Midjourney Wallpapers</h1>
 <br>
-<h1>Total assets: [101]</h1>
+<h2>Total assets: [101]</h2>
 
 
 <h1 align=center>
