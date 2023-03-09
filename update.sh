@@ -7,7 +7,7 @@ echo "
 " > README.md
 
 i=0
-for file in $(ls -1t $PWD/assets | head -10); do
+for file in $(ls -1t $PWD/assets | head -20); do
   echo "
 <h1 align="center">
   <h5>${i}::${file}</h5>
