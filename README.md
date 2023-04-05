@@ -213,3 +213,73 @@
   <br>
 </h1>
   
+
+<h1 align=center>
+  <h5>30::metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_18848ae3-0ff7-4e3d-b9da-51c8edd187ba.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_18848ae3-0ff7-4e3d-b9da-51c8edd187ba.png alt=metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_18848ae3-0ff7-4e3d-b9da-51c8edd187ba.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>31::metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_9f1c0415-c49f-462e-948f-c8a4a244622f.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_9f1c0415-c49f-462e-948f-c8a4a244622f.png alt=metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_9f1c0415-c49f-462e-948f-c8a4a244622f.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>32::metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_c6a1abe1-d6f1-4332-87f0-2d9d9c6a0a31.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_c6a1abe1-d6f1-4332-87f0-2d9d9c6a0a31.png alt=metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_c6a1abe1-d6f1-4332-87f0-2d9d9c6a0a31.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>33::metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_a65f7c32-8a22-4a80-9435-544a63a62708.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_a65f7c32-8a22-4a80-9435-544a63a62708.png alt=metaory_cyberpunk_city_standing_computer_motherboard_cyberpunk_a65f7c32-8a22-4a80-9435-544a63a62708.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>34::metaory_cyberpunk_city_computer_kiosk_cyberpunk_f9bf9045-02da-47c9-94c6-98a1e65ecd6d.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_computer_kiosk_cyberpunk_f9bf9045-02da-47c9-94c6-98a1e65ecd6d.png alt=metaory_cyberpunk_city_computer_kiosk_cyberpunk_f9bf9045-02da-47c9-94c6-98a1e65ecd6d.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>35::metaory_cyberpunk_city_computer_kiosk_cyberpunk_118e5301-f0d4-4caa-b61c-0d167dbeda46.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_computer_kiosk_cyberpunk_118e5301-f0d4-4caa-b61c-0d167dbeda46.png alt=metaory_cyberpunk_city_computer_kiosk_cyberpunk_118e5301-f0d4-4caa-b61c-0d167dbeda46.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>36::metaory_pixel_art_cyberpunk_city_computer_kiosk_cyberpunk_8228a104-cd9d-412e-96ab-d7967fc07cb1.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_pixel_art_cyberpunk_city_computer_kiosk_cyberpunk_8228a104-cd9d-412e-96ab-d7967fc07cb1.png alt=metaory_pixel_art_cyberpunk_city_computer_kiosk_cyberpunk_8228a104-cd9d-412e-96ab-d7967fc07cb1.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>37::metaory_pixel_art_cyberpunk_city_extremely_detailed_towers_city_e8a6af3c-9ace-4877-8343-4e421f0ffee5.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_pixel_art_cyberpunk_city_extremely_detailed_towers_city_e8a6af3c-9ace-4877-8343-4e421f0ffee5.png alt=metaory_pixel_art_cyberpunk_city_extremely_detailed_towers_city_e8a6af3c-9ace-4877-8343-4e421f0ffee5.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>38::metaory_pixel_art_cyberpunk_city_extremely_detailed_towers_city_a83c488f-1cdd-49f0-94d8-6f5463b3a095.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_pixel_art_cyberpunk_city_extremely_detailed_towers_city_a83c488f-1cdd-49f0-94d8-6f5463b3a095.png alt=metaory_pixel_art_cyberpunk_city_extremely_detailed_towers_city_a83c488f-1cdd-49f0-94d8-6f5463b3a095.png>
+  <br>
+</h1>
+  
+
+<h1 align=center>
+  <h5>39::metaory_cyberpunk_city_extremely_detailed_tower_top_of_tower_6a8db723-d692-4370-9e19-9028c03f1e8e.png</h5>
+  <img width=90% src=https://raw.githubusercontent.com/metaory/midjourney/master/assets/metaory_cyberpunk_city_extremely_detailed_tower_top_of_tower_6a8db723-d692-4370-9e19-9028c03f1e8e.png alt=metaory_cyberpunk_city_extremely_detailed_tower_top_of_tower_6a8db723-d692-4370-9e19-9028c03f1e8e.png>
+  <br>
+</h1>
+  
