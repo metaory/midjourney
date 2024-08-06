@@ -28,7 +28,7 @@ for f in assets/*.png; do
   cat <<< "
 <details ${state}>
   <summary>
-    <kbd>${i}</kbd> 𑁋 <code>${f##*_}</code>
+    <kbd>${i}</kbd> 𑁋 <code>${f##*/}</code>
   </summary>
   <img src=\"${base}/${f}\" alt=\"${f}\">
 </details>"  >> README.md
