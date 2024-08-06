@@ -1809,4 +1809,4 @@
 
 ## License
 
-[MIT](LICENSE)
+[CC0](LICENSE)
